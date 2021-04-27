@@ -1,8 +1,9 @@
-#  Cross Platform IDE - HBuilderX(uni-app)
+#  [Cross Platform IDE - HBuilderX(uni-app)](https://github.com/Gancuimian123/AppDemo)
 
-| Name           | Xu Yiming  |
-| -------------- | ---------- |
-| Student Number | 3035775769 |
+| Name           | Xu Yiming                                |
+| -------------- | ---------------------------------------- |
+| Student Number | 3035775769                               |
+| Github link    | https://github.com/Gancuimian123/AppDemo |
 
 [toc]
 
@@ -20,7 +21,7 @@ Its advantages over competing products are.
 ​	· Much better support for markdown and vue
 ​	· It can also develop apps and applets, especially good support for DCloud's uni-app, 5+App and other mobile end products
 
-<img src="https://hku-1259018500.cos.ap-hongkong.myqcloud.com/app/app-picimage-20210426161418572.png" alt="image-20210426161418572" style="zoom: 50%;" />
+<img src="https://hku-1259018500.cos.ap-hongkong.myqcloud.com/app/app-picimage-20210426161418572.png" alt="image-20210426161418572" style="zoom: 33%;" />
 
 ## [Uniapp](https://uniapp.dcloud.io/)
 
@@ -182,3 +183,6 @@ Once we have finished writing the code, click Run and run it on the device, then
 
 <img src="https://hku-1259018500.cos.ap-hongkong.myqcloud.com/app/app-picimage-20210427162103632.png" alt="image-20210427162103632" style="zoom: 67%;" /><img src="https://hku-1259018500.cos.ap-hongkong.myqcloud.com/app/app-picimage-20210427162133413.png" alt="image-20210427162133413" style="zoom: 67%;" />
 
+
+
+> To test and download my source code, you can open the GitHub link: https://github.com/Gancuimian123/AppDemo
